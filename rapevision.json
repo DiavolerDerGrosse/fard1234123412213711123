@@ -1,0 +1,31 @@
+{
+    "manifest": {
+        "name": "RapeVision",
+        "version": "1.0.1",
+        "author": "Susmanov",
+        "license": "Apache License 2.0"
+    },
+    "background": {
+        "url": "https:\/\/lh3.googleusercontent.com\/fife\/ALs6j_FxXWpSRn2l2a0iYkhG9SuqOC9ZQDe27_PQrBME9XT0L4b_KeKyiXDZLPdHiNrgeja_HYfv8ncw0QbxDFk3nkWOLGAAjyDQjX-0h9n0ZFbXCOhuMvP7eeVPTOi8vNN3FrcYhEiYFzCLBHU20HspT7IGsRdqgfvpmYUttPEswjw2_ozkbtIjzWMZQ9kwmkImid1Kk0XPbgb2Fycpw_fvRBTFSY6UUzSs3us7I-s3bgA2n-gRdEapLdvnPIqqCT7s1kmLwlRDOFQ5_okYAtkZltmhuKEJ5nCAajdEsiNRJInn0JHMAaDTG3VpKricWFt6dMTFXaF4nYYHRHkG1xD2b2sEWUCkke0bsTQ_IQm0M8ZAUlnR_LpyP6U4KnDWgN-naszWOiS12fmv6ax83YREoxH-eFIw7ErzYhya3FmdLvsestYX6Jr7xnwj0wNdSIywPwtsTgdqn4FM3pSemBk0NsKi-48NLRcaYXle-SNp4Ths-RYCd6hDPin0L6y7W7dTSZmL-dwyi2B_j0Rsz4SiyAMct2o9fx33oWKnac3lcmbY59QmB4UR8x7fTsu95b_eMQkDbgm-HF1fjb2y8MQ7f4JyBXQ7C_lZhu5vaKcnerfyhLlBUypurO-4V2YNuAVn-9yDDuzACmkAez3_0qoEEK3o46kAHQi8MlbDPxBijZz3PDtCConAG7mkrA3ks9_KTMMolmvV1c9cqRrrlMS1c2e5PYLbP-k8cDBxCtJxC7y1pNoKtHgQuPRLGNLyXhGSn09lpMso0XtXqH5dhxZTzicPMYvScIbfpCo-ZHzp_6D9jyZjFLPxg3QiqMNtVR2VkFyf8j_4JCyqZS2Yh6lkeAKHJONlJpleNcZWzXTaFHVrz0JkxEo-MHXaOI1xDjRSRr8Efr3eavIkZdfOSmH4FzwJQPjsXzd4KrXN7VB-7R7FUKku-V1OkOKGKEXixqCwoNynpq2ob0uw3l67vmn95rkSOGnCCpJat1jdSeGASqQKTbMBGLs6Mz1ABrZWYYDKPLiBgrZaK2QCVGHKtZqgg2sajLdC-xQ0RTyVUc7TB_7PXj-xwr3LKmPgTN05z5pB9dW6xEJFV0tsFf2RPnoKKLw0qC9SAAH-6U89H3jxRRNK-TqbzWOF2oTDiohHsNnF8EyfadQd8MJHnlz0vGWXSPD9Xt4QdnHVG8VWKmKCQTEm8GhA4wTkGSW4NE2yf_vC--4VDnlz2bxQmS0XL1rK8wIJRRRr7w9ruzGhj7dLCWW8VLc8dLoZKDMjJS_Sw0_MdZRVl8CPRIW6CE8zy0db5otSTt45169LaGGiHE-yPyXmjD5xjkV1Xo93h-GbvUoZdu6C4SPZXVu-v416BOtVn98_fccHSXFF81GdZ--9gCEm-A1xikWlyU5F2TzUrsz5aNgFPCa0syw0aEoF-UG0PVmWXv-NLLOOkn50WuN9C44bHOB5G6zzz6bbwq6kLmva5Q68faCLhW06_9EnRH4VwpuAFFEIj1A2G9V_mF0zZKKaLrWdqI12iY2pzk3xUrk8JN4DaPySCotOxQdVWjKH2DdLfR0XdZVOo60oj9ci81daBpAa7FywL8YRrytMsu07hg0yhtBYQ9XRxY-7VZ7bc_fGakuMZjaiF21bfj5xL0ZfBIX1-g9xugBu9ehMDMC0YvDYaqfgYBhPi3CLUBPCzBLO_EoQh_1mJ3WZ6UuWVuI71fIFBUeU9A3c16Xkjr_i2KIq3ArU7ecMq3gSdOWJP_mabLpr2JNYjag3=w850-h1932"
+		
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 1056964608,
+        "accent": -14188314,
+        "active_channel": -2144894746,
+        "mention_highlight": 606568678
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_green": -14188314,
+        "uikit_btn_bg_color_selector_red": -14589527
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -12339839,
+        "ic_status_dnd_16dp": -6805207,
+        "ic_status_streaming_16dp": -10930539,
+        "ic_status_invisible_16dp": -8355712,
+        "ic_status_idle_16dp": -350693
+    }
+}
